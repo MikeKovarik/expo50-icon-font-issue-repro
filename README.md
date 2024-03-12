@@ -1,1 +1,9 @@
-# expo50-icon-font-issue-repro
+# Steps to reproduce
+
+```
+npm install
+```
+
+```
+npm run web
+```
